@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="pokemon">Ingrese el Pokemon</string>
+    <string name="search">Search</string>
+</resources>
